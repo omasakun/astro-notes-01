@@ -3,6 +3,8 @@
 ## 再現方法
 
 ```
+git clone https://github.com/omasakun/astro-notes-01.git
+cd astro-notes-01
 pnpm install
 pnpm dev
 ```
